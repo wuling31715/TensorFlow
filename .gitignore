@@ -1,0 +1,8 @@
+ch02-word embeddings/aclImdb/
+ch02-word embeddings/aclImdb_v1.tar.gz.tar.gz
+ch02-word embeddings/logs/
+ch02-word embeddings/metadata.tsv
+ch02-word embeddings/vectors.tsv
+ch03-word2Vec/logs/
+ch03-word2Vec/metadata.tsv
+ch03-word2Vec/vectors.tsv
